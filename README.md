@@ -1,0 +1,1 @@
+# Mathmetical-Modeling-of-Mechanical-Gyroscope
